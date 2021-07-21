@@ -1,6 +1,6 @@
 # Calculadora API
 
-Esse projeto é o software alvo da disciplina de GQSO, trata-se de uma calcularado API inspirada em REST.
+Esse projeto é o software alvo da disciplina de GQSO, trata-se de uma calculadora API inspirada em REST.
 
 ## Funcionalidades
 
